@@ -23,9 +23,6 @@
 
 
 *{box-sizing: border-box;}
-* {
-    outline: 1px solid red; /* Dibuja un contorno en todos los elementos */
-}
 
 html{scroll-behavior: smooth;}
 body {
