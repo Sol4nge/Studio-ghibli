@@ -244,13 +244,9 @@ footer p{
     margin: 0;
     padding: 12px;
     color: var(--tertiary-color);
+    cursor: pointer;
 }
 
-footer p{
-    margin: 0;
-    padding: 12px;
-    color: var(--tertiary-color);
-}
 
 footer .container{
     display: flex;
@@ -266,7 +262,7 @@ footer {
     display: flex;
     justify-content:space-between;
     flex-direction: row;
-    align-items: center
+    align-items: center;
 }
 footer .social{ 
     display: flex;
@@ -276,8 +272,6 @@ footer .social{
     align-items: center}
 footer .logo{
     height: 34%;}
-
-
 
 footer .social{ 
     display: flex;

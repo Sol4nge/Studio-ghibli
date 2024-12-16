@@ -13,3 +13,5 @@ icon.onclick = function(){
         icon.src="img/moon.png"
     }
 }
+
+function cartel() {alert("Esta pagina fue creada Por Sol Ojeda Yuliani con mucho amor y dedicación!")}
